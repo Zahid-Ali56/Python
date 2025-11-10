@@ -1,0 +1,15 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    color: #333;
+}
+
+.table {
+    background-color: white;
+}
+
+.btn {
+    border-radius: 8px;
+}
