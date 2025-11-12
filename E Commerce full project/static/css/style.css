@@ -1,0 +1,27 @@
+/* Main styles */
+body {
+  background-image: url('../images/bg.svg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+}
+.container {
+  background: rgba(255,255,255,0.92);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+.carousel-img {
+  height: 320px;
+  object-fit: cover;
+}
+.card-img-top {
+  height: 160px;
+  object-fit: contain;
+  background: transparent;
+}
+footer {
+  background: rgba(0,0,0,0.03);
+}
